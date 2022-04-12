@@ -29,7 +29,7 @@ public class MainActivity extends AppCompatActivity {
   protected void onCreate(Bundle savedInstanceState) {
     super.onCreate(savedInstanceState);
     setContentView(R.layout.activity_main);
-    setTitle("Main Activity");
+    setTitle("Destinations List");
 
     // Setting variables to be used in the code
     mRecyclerView = findViewById(R.id.rvList);

@@ -38,7 +38,7 @@ public class DetailActivity extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_detail);
-        setTitle("Detail Activity");
+        setTitle("Destination");
 
         // Declares variables by item id
         mName = findViewById(R.id.name);
